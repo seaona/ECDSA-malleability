@@ -1,9 +1,10 @@
 # ECDSA Malleability
 ## Setup
 Clone the repo and run the script.
-```git clone
-cd ECDSA
-npm i
+```
+git clone https://github.com/seaona/ECDSA-malleability
+cd ECDSA-malleability
+npm ci
 node index.js 
 ```
 
